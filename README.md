@@ -6,6 +6,7 @@ Welcome to **Visual Karma**, my personal portfolio website.
 It’s a space where I bring together my skills as a **Designer & Web Developer** with a focus on creativity, interaction, and storytelling.  
 
 ![Visual Karma Preview](./preview.png)  
+
 [![View Website](https://img.shields.io/badge/View%20Website-VisualKarma.in-brightgreen?style=for-the-badge&logo=google-chrome)](https://visualkarma.in)  
 
 
