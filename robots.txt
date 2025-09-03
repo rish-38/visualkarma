@@ -4,10 +4,9 @@ Allow: /
 # Sitemap location
 Sitemap: https://visualkarma.in/sitemap.xml
 
-# Crawl delay (optional)
+# Crawl delay (optional - not all bots respect this)
 Crawl-delay: 1
 
-# Disallow specific directories if needed
+# Disallow sensitive or backend pages (only if you have them)
 # Disallow: /admin/
 # Disallow: /private/
-
