@@ -1,0 +1,11 @@
+/* TEAM */
+Developer: Rishikesh Vishwakarma
+Site: https://visualkarma.in
+LinkedIn: https://www.linkedin.com/in/rishikesh-vishwakarma-9a5695331/
+
+/* THANKS */
+Tools & Inspiration: Figma, Photoshop, Illustrator, HTML, CSS, JavaScript
+
+/* SITE */
+Last update: 2025-09-03
+Standards: HTML5, CSS3, ES6
