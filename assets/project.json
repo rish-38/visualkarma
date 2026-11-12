@@ -1,0 +1,792 @@
+[
+  {
+    "category": "Brand identity",
+    "title": "DYLAN: Ride the Waves",
+    "description": "A sea-inspired fashion brand with a minimal, bold typographic identity.",
+    "url": "https://www.behance.net/gallery/215030963/DYLAN-Ride-the-wave-Branding",
+    "thumbnail": "assets/thumbnail/4.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Brand identity",
+    "title": "7AM: One Step Ahead",
+    "description": "A sports-inspired footwear brand with a minimal, bold packaging identity.",
+    "url": "https://www.behance.net/gallery/207012859/7-AM-sports-wears",
+    "thumbnail": "assets/thumbnail/3.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Brand identity",
+    "title": "KINDA LIKE: CANDLES",
+    "description": "Quirky scented candle branding with frosted pastel jars, playful floral illustrations, and embroidered patch accent blending tactile fabric texture with humor.",
+    "url": "https://www.behance.net/gallery/233115283/KINDA-LIKE-CANDLES",
+    "thumbnail": "assets/thumbnail/5.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Brand identity",
+    "title": "Just Chill: That's we are!",
+    "description": "Youth fashion packaging with bubbly hand-drawn logo, cartoon mascot, and bold yellow-blue color block capturing a laid-back mood and vibe.",
+    "url": "https://www.behance.net/gallery/215030963/DYLAN-Ride-the-wave-Branding",
+    "thumbnail": "assets/thumbnail/6.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "Zomato: Case Study",
+    "description": "Food delivery app redesign concept comparing cluttered information architecture to a clean, image-led experience with streamlined cards and improved hierarchy.",
+    "url": "https://www.behance.net/gallery/209159943/Zomato-UIUX-case-study",
+    "thumbnail": "assets/thumbnail/u1.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "InkTober - Sign In Page",
+    "description": "Minimal dark-mode authentication experience for Inktober challenge featuring elegant serif logotype and clean typography-led sign-in form for artists.",
+    "url": "https://www.behance.net/gallery/217853365/Inktober-Sign-in-Page-(Daily-01)",
+    "thumbnail": "assets/thumbnail/u2.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "Dr. Shivkumar's Portfolio UI",
+    "description": "A trustworthy, accessible healthcare portal interface with conversational AI hero and approachable teal-led design.",
+    "url": "https://www.behance.net/gallery/233120883/Personal-website-Design-for-Doctor",
+    "thumbnail": "assets/thumbnail/u3.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "Goaner Bot: Presentation",
+    "description": "Expressive digital illustration blending pixel art, halftone portraiture, and Goan meme culture.",
+    "url": "https://www.behance.net/gallery/242773823/The-goaner-Bot-web-bot-with-fetch-API",
+    "thumbnail": "assets/thumbnail/u4.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "Weather Dash: Web UI",
+    "description": "A sleek, minimalist weather dashboard that balances high-end UI design with full-stack logic to provide real-time, location-based forecasts.",
+    "url": "https://www.behance.net/gallery/246644711/Weather-Dash-UIUX-Design-and-API-integration",
+    "thumbnail": "assets/thumbnail/u5.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "UI/UX",
+    "title": "The Roulette Game - Presentation",
+    "description": "A clean, interactive roulette web concept with bold typography and JavaScript logic.",
+    "url": "https://www.behance.net/gallery/236478843/The-Roulette-Game-Web-design",
+    "thumbnail": "assets/thumbnail/u6.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Personal Portfolio",
+    "description": "My first responsive portfolio site: clean, minimal, and usable.",
+    "url": "https://rish-38.github.io/Rishikesh-Portfolio/",
+    "thumbnail": "assets/thumbnail/w1.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Dylan Fashion Website",
+    "description": "An e-commerce editorial concept with responsive layout and bold type.",
+    "url": "https://rish-38.github.io/Dylan/",
+    "thumbnail": "assets/thumbnail/w2.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "BMI Calculator",
+    "description": "A minimal, accurate, and responsive health calculator web app.",
+    "url": "https://rish-38.github.io/BMI-Calculator/",
+    "thumbnail": "assets/thumbnail/w3.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "TinKat",
+    "description": "A playful concept web app for a feline dating & companionship platform.",
+    "url": "https://rish-38.github.io/TinKat/",
+    "thumbnail": "assets/thumbnail/w4.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Doctor's Website",
+    "description": "A clean, responsive doctor clinic site built around trust and appointments.",
+    "url": "https://rish-38.github.io/Dr-Shivkumar/",
+    "thumbnail": "assets/thumbnail/w5.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Nayin Optics",
+    "description": "A sleek, high-contrast digital showcase for modern eyewear.",
+    "url": "https://rish-38.github.io/Nayin/",
+    "thumbnail": "assets/thumbnail/w6.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "SEO Word Counter",
+    "description": "A lightweight utility that calculates reading time, word & character counts.",
+    "url": "https://rish-38.github.io/SEO-word-count",
+    "thumbnail": "assets/thumbnail/w7.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "The Roulette Game - Web Design",
+    "description": "An interactive browser-based casino game built with vanilla JavaScript featuring betting grid, spinning wheel, and coin system.",
+    "url": "https://rish-38.github.io/The-Roulette-Game/",
+    "thumbnail": "assets/thumbnail/w8.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Goaner Bot: Web Bot",
+    "description": "A playful chatbot web experience with retro pixel interface and conversational interaction.",
+    "url": "https://rish-38.github.io/Goaner-Bot/",
+    "thumbnail": "assets/thumbnail/w9.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Web",
+    "title": "Weather Dash:Responsive Dashboard",
+    "description": "A clean, responsive weather web app displaying hourly forecasts with editorial layout and location search.",
+    "url": "https://rish-38.github.io/Weather-Dash/",
+    "thumbnail": "assets/thumbnail/w10.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": true
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Chill Dude",
+    "description": "Minimal white-on-black capybara in water, relaxed streetwear poster.",
+    "url": "assets/art-design/1.webp",
+    "thumbnail": "assets/art-design/1.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Superrrrr",
+    "description": "Pop-art beer bottles of one piece 'franky' with glitch waterline and wavy typography.",
+    "url": "assets/art-design/2.webp",
+    "thumbnail": "assets/art-design/2.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Diable Jambe",
+    "description": "Flaming lighter of one piece 'sanji' half-submerged, geometric flame illustration.",
+    "url": "assets/art-design/3.webp",
+    "thumbnail": "assets/art-design/3.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Woh Ho Ho Ho",
+    "description": "Geometric skull of soul king from one piece laughing in water with bold white outline.",
+    "url": "assets/art-design/4.webp",
+    "thumbnail": "assets/art-design/4.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Shinigami",
+    "description": "Death Note inspired - Shinigami book with red apple, minimal isometric.",
+    "url": "assets/art-design/5.webp",
+    "thumbnail": "assets/art-design/5.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Don't Duck With Me",
+    "description": "Stencil-style duck smoking, attitude streetwear poster design.",
+    "url": "assets/art-design/6.webp",
+    "thumbnail": "assets/art-design/6.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "I'm Not That Handsome",
+    "description": "Cool duck with sunglasses and leather jacket, ironic typography.",
+    "url": "assets/art-design/7.webp",
+    "thumbnail": "assets/art-design/7.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Navigator",
+    "description": "Playful optical illusion with one piece nami's oranges, summer vibes poster.",
+    "url": "assets/art-design/8.webp",
+    "thumbnail": "assets/art-design/8.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Un Fleur",
+    "description": "Surreal one piece Nico robin hand doing rock sign emerging from water with petals.",
+    "url": "assets/art-design/9.webp",
+    "thumbnail": "assets/art-design/9.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Mood Swing",
+    "description": "Minimalist mental health poster - juggling emotions concept.",
+    "url": "assets/art-design/10.webp",
+    "thumbnail": "assets/art-design/10.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Ghost Rider",
+    "description": "Halftone skull with red flame halo, bold curved typography RIDER GHOST.",
+    "url": "assets/art-design/11.webp",
+    "thumbnail": "assets/art-design/11.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Skate Tongue",
+    "description": "Einstein halftone with tongue as pink skateboard, pop-art absurdism.",
+    "url": "assets/art-design/12.webp",
+    "thumbnail": "assets/art-design/12.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Suicide Bill",
+    "description": "Dollar bill hanged with noose made of strap, dark satirical finance poster.",
+    "url": "assets/art-design/13.webp",
+    "thumbnail": "assets/art-design/13.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Where Is My Cape?",
+    "description": "Superhero sitting like The Thinker, panicked about missing cape.",
+    "url": "assets/art-design/14.webp",
+    "thumbnail": "assets/art-design/14.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Vote For Better Future",
+    "description": "Ballot box with hand casting vote, optical illusion - Vote spelled by hand.",
+    "url": "assets/art-design/15.webp",
+    "thumbnail": "assets/art-design/15.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "ETAR Party All Day",
+    "description": "ETAR ET-SP990 soundbar campaign - morning till night party concept.",
+    "url": "assets/art-design/16.webp",
+    "thumbnail": "assets/art-design/16.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Bubble Gum Boy",
+    "description": "Sketchy boy with white sunglasses blowing big pink bubble gum.",
+    "url": "assets/art-design/17.webp",
+    "thumbnail": "assets/art-design/17.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Lord Shiva Art",
+    "description": "Detailed vector and digital illustration with divine serenity - Tandav on clouds.",
+    "url": "assets/art-design/18.webp",
+    "thumbnail": "assets/art-design/18.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Na Real Anna",
+    "description": "Funny dog wearing coconut shell helmet, South Indian meme poster.",
+    "url": "assets/art-design/19.webp",
+    "thumbnail": "assets/art-design/19.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Every Fail Is A Way",
+    "description": "High jump athlete failing, typography poster for 7DM One Step Ahead brand.",
+    "url": "assets/art-design/20.webp",
+    "thumbnail": "assets/art-design/20.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "7AM Blue Sneaker",
+    "description": "Bold orange and blue sneaker campaign poster for new collection, dynamic product shot.",
+    "url": "assets/art-design/21.webp",
+    "thumbnail": "assets/art-design/21.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Forest Can Vibe",
+    "description": "Camo portable speaker standing in forest river, product campaign with reflection.",
+    "url": "assets/art-design/22.webp",
+    "thumbnail": "assets/art-design/22.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Loud & Clear Soundbar",
+    "description": "Black soundbar on green field with sky, loud and clear audio campaign poster.",
+    "url": "assets/art-design/23.webp",
+    "thumbnail": "assets/art-design/23.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Phone Holder",
+    "description": "Car phone holder on night highway with light trails, focus on driving campaign.",
+    "url": "assets/art-design/24.webp",
+    "thumbnail": "assets/art-design/24.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Spoiler Alert Candles",
+    "description": "Three flavor candles - Peach, Aster, Lemon - pastel gradient, playful brand poster.",
+    "url": "assets/art-design/25.webp",
+    "thumbnail": "assets/art-design/25.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Trippy Cat Sketch",
+    "description": "Sketchy cat with colorful scribble mask and yellow energetic strokes, expressive illustration.",
+    "url": "assets/art-design/26.webp",
+    "thumbnail": "assets/art-design/26.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Tetrapods Sea",
+    "description": "Hand-drawn coastal tetrapods in blue sea with foam, textured illustration.",
+    "url": "assets/art-design/27.webp",
+    "thumbnail": "assets/art-design/27.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Vasuli Bhai Cat",
+    "description": "White cat with moustache and hair, sketch style, funny local meme poster in purple.",
+    "url": "assets/art-design/28.webp",
+    "thumbnail": "assets/art-design/28.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Flower Eye Surreal",
+    "description": "Black and white eye with purple flower eye and colorful butterfly, surreal collage.",
+    "url": "assets/art-design/29.webp",
+    "thumbnail": "assets/art-design/29.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Art & Sketch",
+    "title": "Flower Eye Surreal",
+    "description": "Black and white eye with purple flower eye and colorful butterfly, surreal collage.",
+    "url": "assets/art-design/30.webp",
+    "thumbnail": "assets/art-design/30.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Brazil Phonk Drift Edit",
+    "description": "High-octane automotive motion edit with seamless velocity ramps, beat sync, and aggressive drift transitions.",
+    "url": "https://vimeo.com/1246118242",
+    "thumbnail": "assets/thumbnail/vimeo-1246118242.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": true
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Phineas & Ferb Car Edit",
+    "description": "Fast-paced cartoon action edit featuring synchronized audio cuts and dynamic speed ramping.",
+    "url": "https://vimeo.com/1246118516",
+    "thumbnail": "assets/thumbnail/vimeo-1246118516.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Podcast video",
+    "description": "Podcast on the topic of hairloss which is a funny take. The video about multi camera setup and editing with dynamic cuts and transitions.",
+    "url": "https://vimeo.com/1246119281",
+    "thumbnail": "assets/thumbnail/vimeo-1246119281.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Animated Motion Poster",
+    "description": "Conceptual poster layout brought to life with ambient layered animations and kinetic typographic hierarchy.",
+    "url": "https://vimeo.com/1246119766",
+    "thumbnail": "assets/thumbnail/vimeo-1246119766.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "The Forgotten Hero",
+    "description": "Cinematic narrative edit exploring heroic themes with atmospheric pacing, dramatic soundscapes, and color grading.",
+    "url": "https://vimeo.com/1246120250",
+    "thumbnail": "assets/thumbnail/vimeo-1246120250.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": true
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Green Screen VFX & Composite",
+    "description": "Chroma key extraction with layered 2D/3D motion composite elements and dynamic visual effects.",
+    "url": "https://vimeo.com/1246120524",
+    "thumbnail": "assets/thumbnail/vimeo-1246120524.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "A Silent Voice Emotional Edit",
+    "description": "Emotionally charged anime music video edit with seamless clip transitions and evocative storytelling.",
+    "url": "https://vimeo.com/1246121496",
+    "thumbnail": "assets/thumbnail/vimeo-1246121496.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Content Creator Intro",
+    "description": "Short-form conversational edit featuring tight cuts, engaging camera pacing, and dynamic text based visual accents.",
+    "url": "https://vimeo.com/1246121496",
+    "thumbnail": "assets/thumbnail/vimeo-1246121496.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Social Trend Reel",
+    "description": "Punchy, trend-driven short-form cut designed for Instagram Reels & YouTube Shorts engagement.",
+    "url": "https://vimeo.com/1246134654",
+    "thumbnail": "assets/thumbnail/vimeo-1246134654.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Beat Sync Project Edit",
+    "description": "Sharp, rhythmic video edit cut strictly to bass drops and percussion hits with micro-zooms.",
+    "url": "https://vimeo.com/1246121970",
+    "thumbnail": "assets/thumbnail/vimeo-1246121970.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Khandesh Cinematic Episode Pt. 1",
+    "description": "Narrative regional episode edit with dialogue pacing, ambient audio balance, and dramatic color grading.",
+    "url": "https://vimeo.com/1246122383",
+    "thumbnail": "assets/thumbnail/vimeo-1246122383.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": true
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Khandesh Cinematic Episode Pt. 2",
+    "description": "Continuation of the regional narrative project focusing on character arcs, comedic timing, and pacing.",
+    "url": "https://vimeo.com/1246123038",
+    "thumbnail": "assets/thumbnail/vimeo-1246123038.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "AI Product Motion Showcase ",
+    "description": "Product motion showcase with AI-generated visual effects, dynamic camera moves, and responsive lighting.",
+    "url": "https://vimeo.com/1246123038",
+    "thumbnail": "assets/thumbnail/vimeo-1246123038.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Khandesh Cinematic Episode Pt. 3",
+    "description": "visit to temple with narrative project with climactic pacing, character resolution, and cinematic color grading.",
+    "url": "https://vimeo.com/1246123038",
+    "thumbnail": "assets/thumbnail/vimeo-1246123038.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Khandesh Cinematic Episode Pt. 4",
+    "description": "Indian before marriage ceremony with narrative project with climactic pacing, character resolution, and cinematic color grading.",
+    "url": "https://vimeo.com/1246126646",
+    "thumbnail": "assets/thumbnail/vimeo-1246126646.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": true
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Image fast cut edit",
+    "description": "Stylized aesthetic cut utilizing speed variation, color grading, and seamless match cuts.",
+    "url": "https://vimeo.com/1246127336",
+    "thumbnail": "assets/thumbnail/vimeo-1246127336.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Cinematic Rhythm Cut",
+    "description": "Atmospheric visual montage synchronizing environmental sound effects with punchy cuts.",
+    "url": "https://vimeo.com/1246127782",
+    "thumbnail": "assets/thumbnail/vimeo-1246127782.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "AI Explainer video",
+    "description": "AI-generated explainer video with character-driven narrative and layered audio tracks.",
+    "url": "https://vimeo.com/1246130010",
+    "thumbnail": "assets/thumbnail/vimeo-1246130010.jpg",
+    "mediaType": "video",
+    "tag": "Video Edit",
+    "isWide": false
+  },
+  {
+    "category": "Video & Motion",
+    "title": "Soundtrack Audio Visualizer",
+    "description": "Waveform motion graphic synchronizing audio frequencies with responsive reactive visuals.",
+    "url": "https://vimeo.com/1246131337",
+    "thumbnail": "assets/thumbnail/vimeo-1246131337.jpg",
+    "mediaType": "video",
+    "tag": "Motion Graphic",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Trust Our Glasses",
+    "description": "4-panel comic about trusting glasses over husband during haircut, yellow and black pop-art style.",
+    "url": "assets/posters/p1.webp",
+    "thumbnail": "assets/posters/p1.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Strong Fashion",
+    "description": "Classical marble statue wearing black hoodie and sneakers, fashion campaign with beige palette.",
+    "url": "assets/posters/p2.webp",
+    "thumbnail": "assets/posters/p2.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Caricature Editorial",
+    "description": "Editorial magazine cover with exaggerated caricature portrait and bold headline typography.",
+    "url": "assets/posters/p3.webp",
+    "thumbnail": "assets/posters/p3.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Face Reveal",
+    "description": "Dark halftone deity face with red border, triumph of faith magazine cover concept.",
+    "url": "assets/posters/p4.webp",
+    "thumbnail": "assets/posters/p4.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "For The Love",
+    "description": "Charcoal and digital mixed-media study experimenting with dramatic monochrome value scales.",
+    "url": "assets/posters/p5.webp",
+    "thumbnail": "assets/posters/p5.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Ride The Waves",
+    "description": "Woman in red outfit with straw hat and woven bag sitting on grass against graffiti wall.",
+    "url": "assets/posters/p6.webp",
+    "thumbnail": "assets/posters/p6.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Inside out",
+    "description": "Minimalist colorful silhouette of girl walking with bag on rainbow path, white space poster.",
+    "url": "assets/posters/p7.webp",
+    "thumbnail": "assets/posters/p7.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Flying Man With Bottle",
+    "description": "Cartoon man with big nose flying next to bottle, huge yellow hand-drawn typography.",
+    "url": "assets/posters/p8.webp",
+    "thumbnail": "assets/posters/p8.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Love Your Swag",
+    "description": "Young man in yellow tee, blue jeans and sunglasses leaning on orange wall, swag typography.",
+    "url": "assets/posters/p9.webp",
+    "thumbnail": "assets/posters/p9.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  },
+  {
+    "category": "Posters",
+    "title": "Make Peach Great Again",
+    "description": "Peach flavor candle product and box with peach face illustration, pastel gradient campaign.",
+    "url": "assets/posters/p10.webp",
+    "thumbnail": "assets/posters/p10.webp",
+    "mediaType": "image",
+    "tag": "",
+    "isWide": false
+  }
+]
