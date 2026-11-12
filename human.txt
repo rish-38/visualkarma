@@ -1,0 +1,33 @@
+/* TEAM */
+  Creator & Developer: Rishikesh Vishwakarma
+  Site: https://visualkarma.in
+  Role: UI/UX & Motion Designer | AI Video Creator | Web Developer
+  Location: Mumbai, Maharashtra, India
+  LinkedIn: https://www.linkedin.com/in/rishikesh-vishwakarma
+  GitHub: https://github.com/rish-38
+  Behance: https://www.behance.net/gallery/215030963/DYLAN-Ride-the-wave-Branding
+
+/* CERTIFICATIONS & CREDENTIALS */
+  Certification: Adobe Certified Professional — Visual Design Using Adobe Photoshop
+  Completed: January 21, 2025
+  Credential Verification: Certport (wL9PR-Fa9D) — https://verify.certport.com
+
+/* EDUCATION & HONORS */
+  Education: KES Shroff College (Data Science, 8.2 CGPA)
+  Design Education: Arena Animation Andheri (Web Designing & Development)
+  Awards:
+    - Finalist, 50th Youth Competition by Mumbai University
+    - 1st Place Winner, 'Your Vote Matters' Competition at Arena Animation
+
+/* TOOLKIT & TECH STACK */
+  Design: Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD, CorelDraw
+  Video & Motion: Adobe After Effects, Adobe Premiere Pro, DaVinci Resolve, CapCut
+  Generative AI: Midjourney, Runway Gen-2/Gen-3, Kling AI, ElevenLabs, ChatGPT
+  Web Development: HTML5, CSS3, JavaScript (ES6+), Bootstrap, PHP, SQL, Lenis Smooth Scroll
+
+/* SITE */
+  Standards: HTML5, CSS3, ES6+
+  Components: Borderless Circular Project Wheel, Dynamic Hugging Preview Card, 5-Column Bento Grid, Interactive Quiz Deck
+  Software: Antigravity IDE, Git
+  Language: English
+  Doctype: HTML5

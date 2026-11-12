@@ -1,0 +1,32 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Legacy uncompressed raw media replaced by WebP / WebM
+assets/art-design/*.jpg
+assets/art-design/*.png
+assets/thumbnail/*.jpg
+!assets/thumbnail/vimeo-*.jpg
+assets/thumbnail/*.png
+assets/images/*.jpg
+assets/images/*.png
+assets/videos/*.jpg
+assets/videos/*.mp4
+assets/videos/*.mov
+preview.png
+Visual Karma_ bento portfolio.html
+
+# Legacy duplicate directories
+assets/css/
+assets/js/
+assets/media/
+
+# Scratch & Backup
+scratch/
+_backup_seo/

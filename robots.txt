@@ -1,0 +1,63 @@
+# ==============================================================================
+# robots.txt for Visual Karma (https://visualkarma.in)
+# Rishikesh Vishwakarma — Portfolio & Creative Showcase
+# ==============================================================================
+
+User-agent: *
+Allow: /
+
+# Explicitly Allow Major Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Explicitly Allow Modern AI Search & Answer Engine Bots (AEO)
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+# Disallow dotfiles and development files
+Disallow: /.*
+Disallow: /*.json$
+
+# Allow Public Assets
+Allow: /assets/
+Allow: /css/
+Allow: /js/
+Allow: /preview.webp
+Allow: /human.txt
+Allow: /sitemap.xml
+
+# XML Sitemap Location
+Sitemap: https://visualkarma.in/sitemap.xml

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage / Main Portfolio -->
+  <url>
+    <loc>https://visualkarma.in/</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://visualkarma.in/preview.webp</image:loc>
+      <image:title>Visual Karma — Rishikesh Vishwakarma Portfolio Preview</image:title>
+      <image:caption>Visual Karma by Rishikesh Vishwakarma — UI/UX &amp; Motion Designer, AI Video Creator</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://visualkarma.in/assets/images/profile.webp</image:loc>
+      <image:title>Rishikesh Vishwakarma Profile Illustration</image:title>
+      <image:caption>Portrait of Rishikesh Vishwakarma — UI/UX &amp; Motion Designer</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://visualkarma.in/assets/images/logo.webp</image:loc>
+      <image:title>Visual Karma Brand Logo</image:title>
+      <image:caption>Visual Karma Logo</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Section -->
+  <url>
+    <loc>https://visualkarma.in/#about</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Projects Section (Selected Work & Borderless Circular Wheel) -->
+  <url>
+    <loc>https://visualkarma.in/#projects</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Contact Section (Interactive Card Deck) -->
+  <url>
+    <loc>https://visualkarma.in/#contact</loc>
+    <lastmod>2026-11-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
