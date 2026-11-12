@@ -1,6 +1,6 @@
 # Visual Karma — Rishikesh Vishwakarma Portfolio
 
-[![Live Site](https://img.shields.io/badge/Live%20Website-visualkarma.in-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://visualkarma.in)
+[![Live Site](https://img.shields.io/badge/Live%20Website-visualkarma.fun-10b981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://visualkarma.in)
 [![Adobe Certified](https://img.shields.io/badge/Adobe%20Certified-Photoshop-eb1000?style=for-the-badge&logo=adobe&logoColor=white)](https://verify.certport.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rish--38-24292e?style=for-the-badge&logo=github)](https://github.com/rish-38)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Vishwakarma-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishikesh-vishwakarma)
