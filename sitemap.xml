@@ -4,22 +4,22 @@
 
   <!-- Homepage / Main Portfolio -->
   <url>
-    <loc>https://visualkarma.in/</loc>
+    <loc>https://visualkarma.fun/</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://visualkarma.in/preview.webp</image:loc>
+      <image:loc>https://visualkarma.fun/preview.webp</image:loc>
       <image:title>Visual Karma — Rishikesh Vishwakarma Portfolio Preview</image:title>
       <image:caption>Visual Karma by Rishikesh Vishwakarma — UI/UX &amp; Motion Designer, AI Video Creator</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://visualkarma.in/assets/images/profile.webp</image:loc>
+      <image:loc>https://visualkarma.fun/assets/images/profile.webp</image:loc>
       <image:title>Rishikesh Vishwakarma Profile Illustration</image:title>
       <image:caption>Portrait of Rishikesh Vishwakarma — UI/UX &amp; Motion Designer</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://visualkarma.in/assets/images/logo.webp</image:loc>
+      <image:loc>https://visualkarma.fun/assets/images/logo.webp</image:loc>
       <image:title>Visual Karma Brand Logo</image:title>
       <image:caption>Visual Karma Logo</image:caption>
     </image:image>
@@ -27,7 +27,7 @@
 
   <!-- About Section -->
   <url>
-    <loc>https://visualkarma.in/#about</loc>
+    <loc>https://visualkarma.fun/#about</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -35,7 +35,7 @@
 
   <!-- Projects Section (Selected Work & Borderless Circular Wheel) -->
   <url>
-    <loc>https://visualkarma.in/#projects</loc>
+    <loc>https://visualkarma.fun/#projects</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
@@ -43,7 +43,7 @@
 
   <!-- Contact Section (Interactive Card Deck) -->
   <url>
-    <loc>https://visualkarma.in/#contact</loc>
+    <loc>https://visualkarma.fun/#contact</loc>
     <lastmod>2026-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
